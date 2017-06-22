@@ -5,8 +5,11 @@
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
 	* Array
+		- a variable that contains multiple variables within. Can be a group of numbers or strings
 	* Object
+		- variable that contains key-value pairs, also known as properties with values. An example of this would be when you sign up for an account on a website. The user object would contain properties such as your username, your password, and whatever other information that would be considered necessary for having a functional account on the website.
 	* Method
+		- simply put, a function that is a part of an object.
 
 
 3. Fork and clone this repo.  When you need to commit use the following commands.
